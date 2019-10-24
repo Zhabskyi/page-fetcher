@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/Zhabskyi/page-fetcher.git"
   },
-  "author": "",
+  "author": "Oleksandr Zhabskyi",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Zhabskyi/page-fetcher/issues"
