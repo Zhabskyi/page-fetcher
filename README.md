@@ -1,6 +1,6 @@
 # page-fetcher
 
-##Functionality
+## Functionality
   * Take two arguments from node shell. First one is valid URL and other one is path and file name where to write html body
   * Befor that it check:
     ** if the local file path given already exists
